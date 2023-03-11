@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(184, 140, 216);
+    color: rgb(255, 247, 163);
+    text-align: center;
+}
+
+input{
+    width: 200px;
+    border-radius: 10px;
+}
